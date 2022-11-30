@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         countryFlag.image = UIImage(named: countryArray[1])
         countryName.text = countryArray[2]
         debugPrint("CountryFlagName: \(countryArray[1])")
+        
     }
 
     
